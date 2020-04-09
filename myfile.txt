@@ -1,0 +1,1 @@
+[{"Nombre":"Steven Colocho","Trabaja":"Si","Salario":"Mayores a 1500","Aprobado":"No"},{"Nombre":"David NAtaas","Trabaja":"Si","Salario":"Menores a 1500","Aprobado":"No"},{"Nombre":"Testing test","Trabaja":"Si","Salario":"Menores a 1500","Aprobado":"No"},{"Nombre":"Andrea Melgar","Trabaja":"Si","Salario":"Mayores a 1500","Aprobado":"Si"}]

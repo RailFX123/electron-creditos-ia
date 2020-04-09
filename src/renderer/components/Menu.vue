@@ -36,11 +36,11 @@
 </template>
 
 <script>
-export default {
-  data () {
-    return {
-      isActive: true
+  export default {
+    data () {
+      return {
+        isActive: true
+      }
     }
   }
-}
 </script>
